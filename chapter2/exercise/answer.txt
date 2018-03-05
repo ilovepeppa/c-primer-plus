@@ -1,0 +1,11 @@
+1. C++ 程序中的模块是函数。
+2. 该编译指令导致预编译处理器将iostream文件中的内容添加到程序中。
+3. 这句话使得程序可以使用std名称空间中的定义。
+4. cout << "Hello world" << endl;
+5. int cheeses;
+6. cheeses = 32;
+7. cin >> cheeses;
+8. cout << "We have " << cheeses << " varieties of chheese.";
+9.froop函数接受一个double参数，返回一个int值；rattle函数接受一个int参数，不返回任何值。prune函数不接受任何参数，返回一个int值。
+10. 返回类型为void
+11. using namespace std;
